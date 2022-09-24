@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: darkgrey;
+    
+}
+p{
+    font-size: large;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    line-height:2.5em;
+    color: rgb(78, 71, 71)
+}
